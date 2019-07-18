@@ -1,5 +1,5 @@
-require 'rails_helper'
+xrequire 'rails_helper'
 
-RSpec.describe TitlesController, type: :controller do
+xRSpec.describe TitlesController, type: :controller do
 
-end
+xend
