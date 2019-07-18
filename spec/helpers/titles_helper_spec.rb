@@ -1,4 +1,4 @@
-require 'rails_helper'
+# require 'rails_helper'
 
 # Specs in this file have access to a helper object that includes
 # the TitlesHelper. For example:
@@ -10,6 +10,6 @@ require 'rails_helper'
 #     end
 #   end
 # end
-xRSpec.describe TitlesHelper, type: :helper do
+# RSpec.describe TitlesHelper, type: :helper do
   pending "add some examples to (or delete) #{__FILE__}"
-xend
+# end
